@@ -6,9 +6,10 @@ This is a simple Python-based text analyzer that counts words, characters, and s
 - Counts total words.
 - Counts total characters (with/without spaces).
 - Counts total sentences.
+- Command-line interface for specifying input file.
 
 ## Setup Instructions
-(To be updated after implementation)
-
-## Project Structure
-(To be updated after implementation)
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:your-username/text-analyzer.git
+   cd text-analyzer
